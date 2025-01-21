@@ -76,7 +76,7 @@ function Main() {
                 </div>
 
                 <div className='w-[50vw]'>
-                    <p className='text-[4rem] font-bold text-center grid gap-0'>Digital Agents :-<label> AI for Instant Support</label></p>
+                    <p className='text-[4rem] font-bold text-center grids'>Digital Agents :-<label> AI for Instant Support</label></p>
                 <p className='text-[#B4B6C7] text-[15px]'>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur lorem ante, fringilla vel diam vel.</p>
                 </div>
 
